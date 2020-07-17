@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://66ccff.work/hexo2/</loc>
+    
+    <lastmod>2020-07-17T10:46:17.490Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://66ccff.work/top/</loc>
     
     <lastmod>2020-07-17T05:33:21.820Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>https://66ccff.work/8d8a5dcf/</loc>
     
     <lastmod>2020-06-26T01:21:45.170Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://66ccff.work/hexo2/</loc>
-    
-    <lastmod>2020-06-26T01:21:34.110Z</lastmod>
     
   </url>
   
