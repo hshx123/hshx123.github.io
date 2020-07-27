@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://66ccff.work/hexo2/</loc>
+    
+    <lastmod>2020-07-27T10:34:37.760Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://66ccff.work/hexo/</loc>
     
-    <lastmod>2020-07-26T16:21:40.240Z</lastmod>
+    <lastmod>2020-07-27T08:18:05.690Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://66ccff.work/friends/index.html</loc>
     
     <lastmod>2020-07-26T12:27:04.610Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://66ccff.work/hexo2/</loc>
-    
-    <lastmod>2020-07-24T04:02:11.210Z</lastmod>
     
   </url>
   
